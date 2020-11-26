@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-// import './App.css';
 import Values from 'values.js'
 
 // components
